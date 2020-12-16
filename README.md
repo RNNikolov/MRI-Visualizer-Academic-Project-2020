@@ -1,1 +1,2 @@
 # MRI-Visualizer-Academic-Project-2020
+This is my third project set by the university as an assignment during my second year. We were provided with the CThead dataset and we had to apply maximum intensity projection on the images, histogram equalization and create thumbnail of all photos in the dataset. Last thing that has been done is creating a function to resize an image using bilinear interpolation. All of the code has been commented using the university commenting standard. 
